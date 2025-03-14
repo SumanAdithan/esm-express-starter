@@ -1,7 +1,7 @@
-import exprees from 'express';
+import express from 'express';
 
 export const createApp = () => {
-    const app = exprees();
+    const app = express();
 
     return app;
 };

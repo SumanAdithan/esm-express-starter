@@ -1,0 +1,23 @@
+{
+    "name": "esm-express-starter",
+    "version": "1.0.0",
+    "description": "",
+    "main": "./src/index.js",
+    "scripts": {
+        "start:dev": "nodemon"
+    },
+    "type": "module",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "packageManager": "pnpm@10.6.2",
+    "dependencies": {
+        "express": "^4.21.2"
+    },
+    "devDependencies": {
+        "@types/express": "^4.17.21",
+        "nodemon": "^3.1.9",
+        "tsx": "^4.19.3",
+        "typescript": "^5.8.2"
+    }
+}
